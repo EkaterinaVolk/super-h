@@ -108,9 +108,11 @@ const heroes = [{
 class App extends React.Component () {
   render(){
   return (
+    <div>
 {heroes.map((hero) => 
   <Card name={hero.name} url={hero.url} universe={hero.universe} alterego={hero.alterego} occupation={hero.occupation} superpowers={hero.superpowers}></Card>
   )}
+  </div>
   );
 }
 }
