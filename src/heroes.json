@@ -1,4 +1,4 @@
- const Heroes = [{
+[{
       "name": "Бетмен",
       "universe": "DC Comics",
       "alterego": "Брюс Уэйн",
