@@ -5,8 +5,9 @@ import heroes from "./heroes";
 function App() {
     return (
       <div className="App">
-  <Card price={300} speed={10}></Card>
-
+  {heroes.map((hero) => 
+  <Card name={hero.name} url={hero.url} universe={hero.universe} alterego={hero.alterego} occupation={hero.occupation} superpowers={hero.superpowers}></Card>
+  )}
       </div>
     );
   }
