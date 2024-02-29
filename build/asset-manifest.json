@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/super-h/static/css/main.9268692a.css",
+    "main.js": "/super-h/static/js/main.9b26dc5e.js",
+    "static/js/787.9327f037.chunk.js": "/super-h/static/js/787.9327f037.chunk.js",
+    "index.html": "/super-h/index.html",
+    "main.9268692a.css.map": "/super-h/static/css/main.9268692a.css.map",
+    "main.9b26dc5e.js.map": "/super-h/static/js/main.9b26dc5e.js.map",
+    "787.9327f037.chunk.js.map": "/super-h/static/js/787.9327f037.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9268692a.css",
+    "static/js/main.9b26dc5e.js"
+  ]
+}
